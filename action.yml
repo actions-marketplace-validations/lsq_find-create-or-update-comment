@@ -1,4 +1,4 @@
-name: 'Find, create or update comment'
+name: 'Find, create or update github issuse comment'
 description: 'Tries to find a comment and updates it if found, if not creates it.'
 branding:
   icon: 'message-square'
